@@ -1,7 +1,9 @@
 # [CHI'25] Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models
 
 
-## Dataset 
+## Dataset
+
+In this work, we collected a dataset containing Be My AI-generated image descriptions shared by visually-impaired users on four social media platforms. See [details of the dataset](DATASET.md).
 
 
 ## Citation
