@@ -11,10 +11,8 @@
 
 # Data Table
 
-This table contains information about various platforms along with their descriptions, screenshots, and relevant dates.
-
-| Platform  | Description | Screenshot | Date Posted | Date Access | Original Link |
-|-----------|------------|------------|-------------|-------------|--------------|
-| Platform 1 | Description of platform 1 | ![Screenshot](images/screenshot1.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
-| Platform 2 | Description of platform 2 | ![Screenshot](images/screenshot2.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
-| Platform 3 | Description of platform 3 | ![Screenshot](images/screenshot3.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
+| Item # | Platform  | Description | Screenshot | Date Posted | Date Access | Original Link |
+|--------|-----------|------------|------------|-------------|-------------|--------------|
+| 1      | Platform 1 | Description of platform 1 | ![Screenshot](images/screenshot1.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
+| 2      | Platform 2 | Description of platform 2 | ![Screenshot](images/screenshot2.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
+| 3      | Platform 3 | Description of platform 3 | ![Screenshot](images/screenshot3.jpg) | YYYY-MM-DD | YYYY-MM-DD | [Original Link](https://example.com) |
