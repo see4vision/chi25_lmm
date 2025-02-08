@@ -1,4 +1,6 @@
-# Dataset - Be My AI-generated image descriptions shared by visually-impaired users on social media platforms.
+# Dataset
+
+This dataset contains Be My AI-generated image descriptions shared by visually-impaired users on four social media platforms.
 
 | # | Platform  | Description | Screenshot | Date Posted | Date Access | Original Link |
 |---|-----------|------------|------------|-------------|-------------|--------------|
