@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="images/human_animal-1.png" alt="Be My AI’s description" width="500">
+  <img src="images/BeMyAI_pipeline.png" alt="Be My AI pipeline" width="900">
 </p>
 
 
